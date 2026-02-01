@@ -1,10 +1,10 @@
-PRIVACY POLICY FOR "BOMBS N BLOCKS"
+PRIVACY POLICY FOR "Glow Block Puzzle"
 Effective Date: December 11, 2025
 
 This Privacy Policy describes the policies and procedures regarding the collection and use of information within the mobile game "Bombs n Blocks" (referred to as the "Application"), operated by Dawid Bielarski (referred to as the "Administrator").
 
 1. Information Collection and Use
-The "Bombs n Blocks" Application is designed for minimal data collection. The Administrator does not directly collect any personally identifiable information (PII) from users, such as name, email address, physical address, or phone number.
+The "Glow Block Puzzle" Application is designed for minimal data collection. The Administrator does not directly collect any personally identifiable information (PII) from users, such as name, email address, physical address, or phone number.
 
 A. Data Stored Locally on the Device
 
@@ -44,7 +44,7 @@ The Administrator does not share any locally stored game progress data with thir
 Data collected by third-party services (such as Google AdMob) is shared and processed in accordance with Google's privacy policy.
 
 3. Children's Privacy (COPPA/GDPR)
-The "Bombs n Blocks" Application is not directed to children under the age of 13. The Administrator does not knowingly collect personal information from children. If the Administrator becomes aware that such data has been collected from a child without verifiable parental consent, steps will be taken to promptly delete the information.
+The "Glow Block Puzzle" Application is not directed to children under the age of 13. The Administrator does not knowingly collect personal information from children. If the Administrator becomes aware that such data has been collected from a child without verifiable parental consent, steps will be taken to promptly delete the information.
 
 4. Data Security
 The Administrator takes commercially acceptable measures to protect the data stored locally on the user's device. However, no method of transmission over the Internet or electronic storage is 100% secure, and the Administrator cannot guarantee absolute data security.
